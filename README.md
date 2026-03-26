@@ -2,7 +2,7 @@
 
 **Reversible PII Anonymisation** — AES-256 token vault, on-premise, role-based access.
 
-Unlike traditional redaction tools (including PrivGuard) that permanently destroy PII,
+Unlike traditional redaction tools that permanently destroy PII,
 ShadowVault *encrypts and tokenises* it. Documents leave the pipeline looking complete
 but containing no real sensitive data. Authorised roles can decrypt field-by-field.
 
