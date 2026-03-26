@@ -1,0 +1,56 @@
+Fictional Medical Record - <<SV-06E49BC1>>
+Patient Information
+Name: <<SV-06E49BC1>>
+<<SV-969DCDB3>>
+Gender: Female
+Ethnicity: Caucasian
+Address: 1284 Pine Ridge <<SV-C72F329C>>, <<SV-567D0293>>
+Phone: <<SV-3989FA15>>
+Email: <<SV-65C517BA>>
+SSN: <<SV-6E292740>>
+Insurance Information
+Insurance Provider: Blue Cross Blue Shield of Illinois (BCBSIL)
+Plan Type: Blue Choice Preferred PPO
+Member ID: <<SV-EEF0953C>>
+Group Number: 350712
+Policy Effective Date: <<SV-928CFDDC>>
+Payer ID: <<SV-9E07DFE2>>
+<<SV-EEA09460>> (Left Breast)
+ICD-10 Code: C50.912
+Date of Diagnosis: May 22, 2025
+Oncologist: Dr. <<SV-99B9C7B4>>, MD (<<SV-57D177C9>>)
+<<SV-46735B71>> University of Colorado Cancer Center
+Medical History
+- Hypertension
+- Type II Diabetes
+- Family History of <<SV-07A949B5>> (mother)
+Current Medications
+- Metformin 500mg BID
+- Lisinopril 10mg daily
+
+Fictional Medical Record - <<SV-06E49BC1>>
+- Tamoxifen 20mg daily
+<<SV-C83B833E>> (<<SV-000B83BF>>): Suspicious mass, <<SV-0DA5ED95>> (<<SV-578FA5BE>>): Positive for malignancy
+- BRCA1/BRCA2: Negative
+Treatment Plan
+- Surgery Scheduled: <<SV-582B07CF>> (<<SV-432F5D89>>)
+- Chemotherapy (Post-op): 4 cycles of <<SV-3CACFE48>> surgical margins
+Physician Signature
+<<SV-8C3B9164>> by: Dr. <<SV-99B9C7B4>>, MD
+<<SV-57D177C9>>
+Date: July 21, 2025
+
+Fictional Medical Record - <<SV-06E49BC1>>
+Attachment: Pathology Report Summary
+Patient: <<SV-06E49BC1>>
+<<SV-D99A132A>>
+Specimen: Left Breast Tissue Biopsy
+Date of Collection: <<SV-3497E5F7>>
+Date of Report: <<SV-8E974BDD>>
+Diagnosis:
+Invasive ductal carcinoma, grade II.
+<<SV-4A7A1766>> cells are ER-positive, PR-positive, HER2-negative.
+Margins: Not applicable (core biopsy).
+Recommendation: Surgical excision and staging.
+Pathologist: Dr. <<SV-1A6147DD>>, MD
+Facility: University of Colorado Pathology Lab

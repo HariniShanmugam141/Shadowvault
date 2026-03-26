@@ -1,0 +1,62 @@
+═══════════════════════════════════════════
+        SHADOWVAULT AUDIT REPORT           
+═══════════════════════════════════════════
+Generated : 2026-03-26T14:23:18.204732 UTC
+Vault tokens total : 66
+Token distribution : {
+  "ACCOUNT_ID": 2,
+  "ADDRESS": 2,
+  "CITY_STATE_ZIP": 2,
+  "DATE_NUMERIC": 14,
+  "DOB": 4,
+  "EMAIL": 2,
+  "GPE": 2,
+  "NPI_ID": 2,
+  "ORG": 10,
+  "PERSON": 16,
+  "PHONE": 4,
+  "SSN": 2,
+  "ZIP": 4
+}
+
+─── Per-File Summary ───────────────────────
+
+File    : Emily_Dawson.pdf
+Tokens  : 33
+Faces   : 0
+  SV-EEA09460  [ORG]  roles=['admin']
+  SV-3CACFE48  [PERSON]  roles=['doctor', 'legal_team', 'admin']
+  SV-C83B833E  [ORG]  roles=['admin']
+  SV-65C517BA  [EMAIL]  roles=['doctor', 'legal_team', 'admin']
+  SV-0DA5ED95  [ORG]  roles=['admin']
+  SV-8C3B9164  [PERSON]  roles=['doctor', 'legal_team', 'admin']
+  SV-969DCDB3  [DOB]  roles=['doctor', 'legal_team', 'admin']
+  SV-46735B71  [ORG]  roles=['admin']
+  SV-567D0293  [CITY_STATE_ZIP]  roles=['legal_team', 'admin']
+  SV-D99A132A  [DOB]  roles=['doctor', 'legal_team', 'admin']
+  SV-57D177C9  [NPI_ID]  roles=['auditor', 'admin']
+  SV-06E49BC1  [PERSON]  roles=['doctor', 'legal_team', 'admin']
+  SV-3989FA15  [PHONE]  roles=['doctor', 'admin']
+  SV-99B9C7B4  [PERSON]  roles=['doctor', 'legal_team', 'admin']
+  SV-07A949B5  [ORG]  roles=['admin']
+  SV-EEF0953C  [ACCOUNT_ID]  roles=['auditor', 'analyst', 'admin']
+  SV-6E292740  [SSN]  roles=['auditor', 'legal_team', 'admin']
+  SV-1A6147DD  [PERSON]  roles=['doctor', 'legal_team', 'admin']
+  SV-4F592B90  [PHONE]  roles=['doctor', 'admin']
+  SV-3497E5F7  [DATE_NUMERIC]  roles=['analyst', 'admin']
+  SV-928CFDDC  [DATE_NUMERIC]  roles=['analyst', 'admin']
+  SV-8E974BDD  [DATE_NUMERIC]  roles=['analyst', 'admin']
+  SV-278F0851  [DATE_NUMERIC]  roles=['analyst', 'admin']
+  SV-582B07CF  [PERSON]  roles=['doctor', 'legal_team', 'admin']
+  SV-578FA5BE  [DATE_NUMERIC]  roles=['analyst', 'admin']
+  SV-000B83BF  [DATE_NUMERIC]  roles=['analyst', 'admin']
+  SV-9356752C  [PERSON]  roles=['doctor', 'legal_team', 'admin']
+  SV-432F5D89  [DATE_NUMERIC]  roles=['analyst', 'admin']
+  SV-95B1C73C  [PERSON]  roles=['doctor', 'legal_team', 'admin']
+  SV-C72F329C  [ADDRESS]  roles=['legal_team', 'admin']
+  SV-9E07DFE2  [ZIP]  roles=['legal_team', 'admin']
+  SV-6338ECB2  [ZIP]  roles=['legal_team', 'admin']
+  SV-4A7A1766  [GPE]  roles=['admin']
+
+─── Access Log ─────────────────────────────
+
